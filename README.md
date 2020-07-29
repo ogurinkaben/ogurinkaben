@@ -1,5 +1,3 @@
-### Hi there 👋
- 	
 ![alt text](https://res.cloudinary.com/simplytammy/image/upload/v1595998486/persona/pp.jpg)
 
 I am Ogurinka 'Tammy' Benjamin or simply **Tammy**! <br>
