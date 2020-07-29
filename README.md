@@ -1,6 +1,6 @@
 ### Hi there 👋
  	
-![alt text](https://res.cloudinary.com/simplytammy/image/upload/v1595997772/persona/pp.jpg)
+![alt text](https://res.cloudinary.com/simplytammy/image/upload/v1595998486/persona/pp.jpg)
 
 I am Ogurinka 'Tammy' Benjamin or simply **Tammy**! <br>
 You will probably find me building some random cool stuff or learning a new thing every now and then.
