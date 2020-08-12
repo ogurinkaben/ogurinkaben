@@ -1,4 +1,4 @@
-![alt text](https://res.cloudinary.com/simplytammy/image/upload/v1595998486/persona/pp.jpg)
+![simply Tammy Octocat](https://res.cloudinary.com/simplytammy/image/upload/v1595997637/persona/octocat.png)
 
 I am Ogurinka 'Tammy' Benjamin or simply **Tammy**! <br>
 You will probably find me building some random cool stuff or learning a new thing every now and then.
