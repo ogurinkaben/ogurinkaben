@@ -7,4 +7,4 @@ When I'm not being geeky, you'll find me chasing cars that I probably wouldn't k
 ❤ The Web <br>
 📫 Read More about me on my personal  	[website](https://tammy.dev/about) <br>
 💬 Check out stuff I've written on  [DEV](https://dev.to/simplytammy) <br>
-📷 Or see what I am up to on [Instagram](https://dev.to/simplytammy)
+📷 Or see what I am up to on [Instagram](https://instagram.com/simplytammy)
