@@ -5,7 +5,7 @@
 <h1 align="left">Hello there! I am Tammy</h1>
 <h3 align="left">A cool frontend developer with a curious eye for design and interactive web applications</h3>
 
-- 🔭 I’m currently working on [ioHub](https://iohub.space)
+- 🔭 I’m actively building [ioHub](https://iohub.space)
 
 - 🌱 I’m currently learning **NuxtJS and NodeJS**
 
