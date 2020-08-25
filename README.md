@@ -15,8 +15,6 @@
 
 - 📝 I occassionally write articles on [https://dev.to/simplytammy](https://dev.to/simplytammy)
 
-- 💬 Ask me about **Anything Frontend**
-
 - 📫 Drop an Email **hi@tammy.dev**
 
 - ⚡ Fun fact **I don't really know what I am doing in this big world of tech!**
