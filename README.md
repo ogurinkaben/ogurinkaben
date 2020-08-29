@@ -7,7 +7,7 @@
 
 - 🔭 I’m actively building [ioHub](https://iohub.space)
 
-- 🌱 I’m currently learning **VueJS(NuxtJS) && NodeJS**
+- 🌱 I’m currently learning **VueJS + NuxtJS && NodeJS**
 
 - 👯 Read More about me [Here](https://tammy.dev/about)
 
