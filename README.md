@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://res.cloudinary.com/simplytammy/image/upload/v1595998486/persona/pp.jpg">
+  <img src="https://res.cloudinary.com/simplytammy/image/upload/c_scale,h_524/v1598948993/persona/tammy.c2dd6d0.png">
 </p>
 
 <h1 align="left">Hello there! I am Tammy</h1>
