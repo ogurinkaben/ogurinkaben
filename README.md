@@ -24,11 +24,11 @@
 <br/>
 <br/>
 <p align="left">
-<a href="https://codepen.io/simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="simplytammy" height="18" width="18" /></a>
-<a href="https://dev.to/simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="simplytammy" height="18" width="18" /></a>
-<a href="https://twitter.com/_simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_simplytammy" height="18" width="18" /></a>
-<a href="https://linkedin.com/in/simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="simplytammy" height="18" width="18" /></a>
-<a href="https://fb.com/ogb.tammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ogb.tammy" height="18" width="18" /></a>
-<a href="https://instagram.com/_simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_simplytammy" height="18" width="18" /></a>
-<a href="https://dribbble.com/simplytammy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="simplytammy" height="18" width="18" /></a>
+<a href="https://codepen.io/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="simplytammy" height="18" width="18" /></a>
+<a href="https://dev.to/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="simplytammy" height="18" width="18" /></a>
+<a href="https://twitter.com/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_simplytammy" height="18" width="18" /></a>
+<a href="https://linkedin.com/in/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="simplytammy" height="18" width="18" /></a>
+<a href="https://fb.com/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ogb.tammy" height="18" width="18" /></a>
+<a href="https://instagram.com/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_simplytammy" height="18" width="18" /></a>
+<a href="https://dribbble.com/ogurinkaben" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="simplytammy" height="18" width="18" /></a>
 </p>
