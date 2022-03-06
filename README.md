@@ -16,6 +16,6 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogurinkaben&layout=compact&hide=html" alt="Ogurinka Benjamin" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogurinkaben&count_private=true&show_icons=true" alt="Ogurinka Benjamin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogurinkaben&count_private=true&show_icons=true&theme=dark" alt="Ogurinka Benjamin" /></p>
 
 
