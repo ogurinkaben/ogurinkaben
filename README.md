@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="left">Hello there!</h1>
-<h3 align="left">I am a cool frontend developer with a curious eye for design and interactive web applications</h3>
+<h3 align="left">I'm a frontend developer, UI designer and a bit more</h3>
 
 
 - 👯 Read More about me [Here](https://ogurinkabenjamin.com/about)
@@ -14,9 +14,8 @@
 
 - 📫 Drop an Email **hi@ogurinkabenjamin.com**
 
-<h4 align="left">Some tools and technologies I actively use or have some experience with</h4>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogurinkaben&layout=compact&hide=html" alt="Ogurinka Benjamin" /></p>
-<p>![Ogurinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurinkaben&count_private=true&show_icons=true)</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ogurinkaben&count_private=true&show_icons=true" alt="Ogurinka Benjamin" /></p>
 
 
