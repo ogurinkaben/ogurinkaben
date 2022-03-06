@@ -17,3 +17,6 @@
 <h4 align="left">Some tools and technologies I actively use or have some experience with</h4>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogurinkaben&layout=compact&hide=html" alt="Ogurinka Benjamin" /></p>
+<p>![Ogurinka's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogurinkaben&count_private=true&show_icons=true)</p>
+
+
