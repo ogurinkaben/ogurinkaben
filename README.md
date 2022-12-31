@@ -5,11 +5,6 @@
 <h1 align="left">Hello there!</h1>
 <h3 align="left">I'm a frontend developer, UI designer and a bit more</h3>
 
-
-- 👯 Read More about me [Here](https://ogurinkabenjamin.com/about)
-
-- 👨‍💻 Some of my projects are available at [https://ogurinkabenjamin.com](https://ogurinkabenjamin.com)
-
 - 📝 I occassionally write articles on [https://dev.to/ogurinkaben](https://dev.to/ogurinkaben)
 
 - 📫 Drop an Email **hi@ogurinkabenjamin.com**
