@@ -2,8 +2,7 @@
   <img src="https://res.cloudinary.com/simplytammy/image/upload/v1625229072/cover/git-cover.png">
 </p>
 
-<h1 align="left">Hello there!</h1>
-<h3 align="left">I'm a frontend developer, UI designer and a bit more</h3>
+<h3 align="left">Hello there, I'm a Full-Stack Web Developer, UI Designer and a bit more</h3>
 
 - 📝 I occassionally write articles on [https://dev.to/ogurinkaben](https://dev.to/ogurinkaben)
 
