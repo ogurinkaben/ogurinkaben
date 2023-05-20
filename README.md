@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://res.cloudinary.com/simplytammy/image/upload/v1625229072/cover/git-cover.png">
+  <img src="https://res.cloudinary.com/og-assets/image/upload/v1625229072/cover/git-cover.png">
 </p>
 
 <h3 align="left">Hello there, I'm a Full-Stack Web Developer, UI Designer and a bit more</h3>
